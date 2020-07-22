@@ -1,0 +1,2 @@
+# AR-VR
+AR and VR Are Not the Same The terms "virtual reality" and "augmented reality" get thrown around a lot these days, thanks to the resurgence of VR headsets heralded by the Oculus Rift and the use of AR apps and games like Pokémon Go. They sound similar, and as the technologies develop, they bleed over into each other a bit. They're two very different concepts, though, with characteristics that readily distinguish them from one another.
